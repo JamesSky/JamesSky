@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="大帅" src="https://p6-passport.byteacctimg.com/img/user-avatar/aed661aae79b90d27a304ddd0b8890d6~300x300.image" width=100 />
+<img alt="大帅" src="https://avatars.githubusercontent.com/u/16420389?s=96&v=4" width=100 />
 
 # 我叫`大帅`，一个`老`程序`猿`
 
